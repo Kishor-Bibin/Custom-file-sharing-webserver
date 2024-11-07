@@ -2,6 +2,7 @@
 # Simple Python File Server
 
 This is a basic file server implemented in Python using the `http.server` module. It allows you to upload, download, and delete files through a web interface.
+![](https://github.com/Kishor-Bibin/Custom-file-sharing-webserver/blob/864b604108257b6a3c4b1f03b5fbceb2a7e88960/Images/Preview.png)
 
 ## Features
 
