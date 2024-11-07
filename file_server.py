@@ -13,7 +13,7 @@ if not os.path.exists(UPLOAD_DIR):
     os.makedirs(UPLOAD_DIR)
 
 # Define the host and port
-host = "192.168.1.34"  # You can also use 'localhost' if you're testing on the same machine.
+host = "192.168.12.24"  # Note use your own Ip address for this to work,You can also use 'localhost' if you're testing on the same machine.
 port = 8000 #if port 8000 is occupied , you can change it to 8001, 8002, etc.
 
 class FileSharingHTTP(BaseHTTPRequestHandler):
