@@ -13,7 +13,7 @@ This is a basic file server implemented in Python using the `http.server` module
 
 ## How to run
 
-1. **Clone the repository:** `git clone https://github.com/your-username/your-repository.git`
+1. **Clone the repository:** ``` bash git clone https://github.com/your-username/your-repository.git ```
 2. **Install dependencies:** This project has no external dependencies.
 3. **Run the server:** `python file_server.py`
 4. **Access the server:** Open your web browser and go to `http://192.168.12.24:8000/` (replace with your server's IP address and port if needed).
